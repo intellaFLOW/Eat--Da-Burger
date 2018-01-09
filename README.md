@@ -6,3 +6,6 @@ UCBx HW
 3) Run "node server.js" 
 4) Go to "localhost:3000" in browser to use working web app
 
+Note: Please download Git Repository, having issues with Heroku deployment.
+  https://eat--da-burger.herokuapp.com/
+  
